@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit>=1.35
+numpy
+pandas
+rank_bm25
+groq
+torch
+sentence-transformers
