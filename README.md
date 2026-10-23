@@ -57,12 +57,6 @@ With 28 questions, one question is worth about 3.6 percentage points, so small g
 - The free app sleeps after inactivity, and the free LLM tier has rate limits.
 - Covers the English FastAPI docs only. AI answers can contain mistakes: always check the linked page.
 
-## Run locally
-```
-pip install -r requirements.txt
-export GROQ_API_KEY=gsk_...
-streamlit run app.py
-```
 
 ## Repo contents
 - `app.py`: Streamlit app
