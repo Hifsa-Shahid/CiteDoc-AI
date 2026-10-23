@@ -5,9 +5,8 @@ If the docs don't cover the question, it says so instead of guessing.
 
 *Unofficial project, not affiliated with FastAPI.*
 
-**Live demo:** <ADD STREAMLIT LINK>
+**Live demo:** <https://citedoc-ai.streamlit.app/>
 
-![screenshot](screenshot.png)
 
 ## How it works
 1. **Chunking:** docs are split by heading (code blocks are never cut) and each chunk gets its page title as context.
